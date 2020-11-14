@@ -27,7 +27,7 @@ See contact information
 #### Github Link: https://github.com/crystalcrandall92
 #### Email: crystalcrandall92@yahoo.com
 
-![example1](../example/indexexample.jpg)
+![example1](./example/indexexample.jpg)
 
 ![example2](addedexerciseexample.jpg)
 
