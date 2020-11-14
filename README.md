@@ -29,6 +29,6 @@ See contact information
 
 ![example1](./example/indexexample.jpg)
 
-![example2](addedexerciseexample.jpg)
+![example2](./example/addedexerciseexample.jpg)
 
-![example3](statsexample.jpg)
+![example3](./example/statsexample.jpg)
